@@ -1,5 +1,6 @@
 package labextra.frete;
 
+// classe para representar um funcionário que realiza entregas
 public class Funcionario extends Entregador implements Fretavel {
 	
 	// construtor

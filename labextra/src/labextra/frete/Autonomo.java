@@ -1,5 +1,6 @@
 package labextra.frete;
 
+// classe para representar um entregador autônomo que realiza entregas
 public class Autonomo extends Entregador implements Fretavel {
 	
 	// construtor

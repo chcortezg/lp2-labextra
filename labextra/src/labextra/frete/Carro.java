@@ -1,5 +1,6 @@
 package labextra.frete;
 
+// classe para representar um carro utilizado para entregas
 public class Carro extends Veiculo implements Fretavel {
 	
 	// contrutor

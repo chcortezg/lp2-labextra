@@ -1,5 +1,6 @@
 package labextra.frete;
- 
+
+// classe para representar uma motocicleta utilizado para entregas
 public class Motocicleta extends Veiculo implements Fretavel {
 	
 	// construtor
