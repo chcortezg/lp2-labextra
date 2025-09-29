@@ -9,9 +9,4 @@ public class Entregador {
 		super();
 		this.nome = nome;
 	}
-
-	// getter
-	public String getNome() {
-		return nome;
-	}	
 }
