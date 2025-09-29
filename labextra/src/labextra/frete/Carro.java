@@ -10,6 +10,6 @@ public class Carro extends Veiculo implements Fretavel {
     // sobrecarga de método da interface
     @Override
     public double calcularCustoFrete(double distanciaEmKm) {
-    	return distanciaEmKm * 1.25;
+    	return distanciaEmKm * 1.25; // cálculo de frete para carro
     }
 }
